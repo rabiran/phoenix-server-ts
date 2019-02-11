@@ -1,0 +1,26 @@
+{
+  "name": "phoenix-server-ts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rabiran/phoenix-server-ts.git"
+  },
+  "author": "eladex",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rabiran/phoenix-server-ts/issues"
+  },
+  "homepage": "https://github.com/rabiran/phoenix-server-ts#readme",
+  "devDependencies": {
+    "@types/express": "^4.16.1",
+    "typescript": "^3.3.3"
+  },
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
